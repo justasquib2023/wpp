@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Williams Professional Painting Blog Test</title>
+    <link>https://www.williamsprofessionalpainting.com/blog</link>
+    <description>Test feed with a single post with full content.</description>
+    <atom:link href="https://raw.githubusercontent.com/justasquib2023/wpp/refs/heads/main/williams-painting-rss-test.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>The Best Exterior Paint for DC Metro Homes: What Actually Lasts in Virginia's Humidity and Heat</title>
+      <link>https://www.williamsprofessionalpainting.com/index.php?p=blog/2026/the-best-exterior-paint-for-dc-metro-homes-what-actually-lasts-in-virginias-humidity-and-heat</link>
+      <guid isPermaLink="true">https://www.williamsprofessionalpainting.com/index.php?p=blog/2026/the-best-exterior-paint-for-dc-metro-homes-what-actually-lasts-in-virginias-humidity-and-heat</guid>
+      <description>If you've started researching exterior paint for your home, you've probably already realized something: not all paints hold up equally in the DC metro climate.</description>
+      <content:encoded><![CDATA[<p>If you've started researching exterior paint for your home, you've probably already realized something: not all paints hold up equally in the DC metro climate. Between Virginia's humid summers, freezing winters, and everything in between, choosing the right exterior paint matters more than most homeowners realize.</p><p>In this post, we break down what actually lasts, what to avoid, and how to make a smart choice for your home.</p>]]></content:encoded>
+      <content><![CDATA[<p>If you've started researching exterior paint for your home, you've probably already realized something: not all paints hold up equally in the DC metro climate. Between Virginia's humid summers, freezing winters, and everything in between, choosing the right exterior paint matters more than most homeowners realize.</p><p>In this post, we break down what actually lasts, what to avoid, and how to make a smart choice for your home.</p>]]></content>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
